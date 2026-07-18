@@ -1,0 +1,795 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Prerona Majumdar | Marketing Analyst Portfolio</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            background: #f8f9fa;
+        }
+
+        header {
+            background: linear-gradient(135deg, #2E75B6 0%, #1F2D3D 100%);
+            color: white;
+            padding: 80px 20px;
+            text-align: center;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+        }
+
+        header h1 {
+            font-size: 3em;
+            margin-bottom: 10px;
+            font-weight: 700;
+        }
+
+        header .subtitle {
+            font-size: 1.3em;
+            opacity: 0.95;
+            margin-bottom: 20px;
+        }
+
+        header .contact {
+            font-size: 0.95em;
+            opacity: 0.9;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 0 20px;
+        }
+
+        section {
+            padding: 60px 0;
+        }
+
+        .section-title {
+            font-size: 2.2em;
+            color: #1F2D3D;
+            margin-bottom: 10px;
+            font-weight: 700;
+        }
+
+        .section-subtitle {
+            font-size: 0.95em;
+            color: #666;
+            margin-bottom: 40px;
+        }
+
+        .about-section {
+            background: white;
+            padding: 50px;
+            border-radius: 8px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+            margin-bottom: 40px;
+        }
+
+        .about-text {
+            font-size: 1.05em;
+            line-height: 1.8;
+            color: #444;
+            margin-bottom: 25px;
+        }
+
+        .skills-grid {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 30px;
+            margin-top: 30px;
+        }
+
+        .skill-category {
+            background: #f0f4f8;
+            padding: 20px;
+            border-radius: 6px;
+            border-left: 4px solid #2E75B6;
+        }
+
+        .skill-category h3 {
+            color: #2E75B6;
+            margin-bottom: 15px;
+            font-size: 1.1em;
+        }
+
+        .skill-category ul {
+            list-style: none;
+        }
+
+        .skill-category li {
+            padding: 6px 0;
+            color: #555;
+        }
+
+        .skill-category li:before {
+            content: "• ";
+            color: #2E75B6;
+            font-weight: bold;
+            margin-right: 8px;
+        }
+
+        .projects-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+            gap: 30px;
+            margin-top: 40px;
+        }
+
+        .project-card {
+            background: white;
+            border-radius: 8px;
+            overflow: hidden;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+        }
+
+        .project-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 6px 16px rgba(0,0,0,0.15);
+        }
+
+        .project-header {
+            background: linear-gradient(135deg, #2E75B6 0%, #4A90E2 100%);
+            color: white;
+            padding: 25px 20px;
+        }
+
+        .project-number {
+            font-size: 0.85em;
+            opacity: 0.9;
+            margin-bottom: 8px;
+        }
+
+        .project-title {
+            font-size: 1.3em;
+            font-weight: 700;
+            margin-bottom: 5px;
+        }
+
+        .project-subtitle {
+            font-size: 0.9em;
+            opacity: 0.95;
+        }
+
+        .project-body {
+            padding: 20px;
+        }
+
+        .project-description {
+            color: #555;
+            font-size: 0.95em;
+            margin-bottom: 15px;
+            line-height: 1.6;
+        }
+
+        .project-metrics {
+            background: #f0f4f8;
+            padding: 15px;
+            border-radius: 6px;
+            margin-bottom: 15px;
+        }
+
+        .metric {
+            display: flex;
+            justify-content: space-between;
+            padding: 6px 0;
+            font-size: 0.9em;
+        }
+
+        .metric-label {
+            color: #666;
+        }
+
+        .metric-value {
+            color: #2E75B6;
+            font-weight: 600;
+        }
+
+        .project-tools {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 8px;
+        }
+
+        .tool-tag {
+            background: #E8EFF7;
+            color: #2E75B6;
+            padding: 5px 12px;
+            border-radius: 20px;
+            font-size: 0.8em;
+            font-weight: 600;
+        }
+
+        .stats-section {
+            background: white;
+            padding: 40px;
+            border-radius: 8px;
+            margin-bottom: 40px;
+        }
+
+        .stats-grid {
+            display: grid;
+            grid-template-columns: repeat(4, 1fr);
+            gap: 30px;
+            margin-top: 30px;
+        }
+
+        .stat-box {
+            text-align: center;
+        }
+
+        .stat-number {
+            font-size: 2.5em;
+            color: #2E75B6;
+            font-weight: 700;
+            margin-bottom: 10px;
+        }
+
+        .stat-label {
+            color: #666;
+            font-size: 0.95em;
+        }
+
+        .experience-timeline {
+            background: white;
+            padding: 40px;
+            border-radius: 8px;
+            margin-bottom: 40px;
+        }
+
+        .timeline-item {
+            padding: 25px 0;
+            border-left: 3px solid #2E75B6;
+            padding-left: 25px;
+            margin-left: 10px;
+            position: relative;
+        }
+
+        .timeline-item:before {
+            content: "";
+            position: absolute;
+            left: -9px;
+            top: 30px;
+            width: 15px;
+            height: 15px;
+            background: #2E75B6;
+            border-radius: 50%;
+            border: 3px solid white;
+            box-shadow: 0 0 0 3px #2E75B6;
+        }
+
+        .timeline-date {
+            color: #2E75B6;
+            font-weight: 700;
+            font-size: 0.9em;
+            margin-bottom: 5px;
+        }
+
+        .timeline-role {
+            font-size: 1.1em;
+            font-weight: 700;
+            color: #1F2D3D;
+            margin-bottom: 8px;
+        }
+
+        .timeline-description {
+            color: #666;
+            font-size: 0.95em;
+            line-height: 1.6;
+        }
+
+        .cta-section {
+            background: linear-gradient(135deg, #2E75B6 0%, #1F2D3D 100%);
+            color: white;
+            padding: 60px 40px;
+            border-radius: 8px;
+            text-align: center;
+            margin-bottom: 40px;
+        }
+
+        .cta-section h2 {
+            font-size: 2em;
+            margin-bottom: 20px;
+        }
+
+        .cta-button {
+            display: inline-block;
+            background: white;
+            color: #2E75B6;
+            padding: 15px 40px;
+            border-radius: 6px;
+            text-decoration: none;
+            font-weight: 700;
+            transition: transform 0.3s ease;
+            margin: 10px;
+        }
+
+        .cta-button:hover {
+            transform: scale(1.05);
+        }
+
+        footer {
+            background: #1F2D3D;
+            color: white;
+            text-align: center;
+            padding: 30px 20px;
+            font-size: 0.9em;
+        }
+
+        @media (max-width: 768px) {
+            header h1 {
+                font-size: 2em;
+            }
+
+            .section-title {
+                font-size: 1.6em;
+            }
+
+            .skills-grid {
+                grid-template-columns: 1fr;
+            }
+
+            .stats-grid {
+                grid-template-columns: repeat(2, 1fr);
+            }
+
+            .projects-grid {
+                grid-template-columns: 1fr;
+            }
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Prerona Majumdar</h1>
+        <div class="subtitle">Marketing Analyst | Performance Measurement | Digital Campaign Analytics</div>
+        <div class="contact">Kolkata, India | 9831741720 | Preronamajumdar99@gmail.com</div>
+    </header>
+
+    <div class="container">
+        <section>
+            <div class="about-section">
+                <h2 class="section-title">About</h2>
+                <div class="about-text">
+                    I am a marketing analyst with two years of experience at British Telecom working in business intelligence and data analytics. I specialise in measuring what matters: which channels drive revenue, which content formats engage audiences, and where marketing budget should be allocated for maximum return.
+                </div>
+                <div class="about-text">
+                    I build dashboards and reporting frameworks that marketing teams actually use. I write SQL queries to answer their questions without waiting for a data team. I use AI tools to accelerate analysis while keeping judgement and accuracy my own. Every metric I report ties back to a decision someone needs to make.
+                </div>
+                
+                <h3 style="color: #1F2D3D; margin-top: 30px; margin-bottom: 20px;">Core Strengths</h3>
+                <div class="skills-grid">
+                    <div class="skill-category">
+                        <h3>Analytics and Tools</h3>
+                        <ul>
+                            <li>SQL and data querying</li>
+                            <li>Power BI dashboards</li>
+                            <li>Advanced Excel</li>
+                            <li>Python data analysis</li>
+                            <li>Google Analytics</li>
+                        </ul>
+                    </div>
+                    <div class="skill-category">
+                        <h3>Marketing Channels</h3>
+                        <ul>
+                            <li>Meta Ads and Instagram</li>
+                            <li>Google Ads and Search</li>
+                            <li>Influencer partnerships</li>
+                            <li>Email and CRM</li>
+                            <li>Organic content tracking</li>
+                        </ul>
+                    </div>
+                    <div class="skill-category">
+                        <h3>Methodology</h3>
+                        <ul>
+                            <li>Campaign attribution</li>
+                            <li>Channel efficiency analysis</li>
+                            <li>A/B test design</li>
+                            <li>Funnel analysis</li>
+                            <li>Content performance audit</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section>
+            <h2 class="section-title">Portfolio Projects</h2>
+            <p class="section-subtitle">Real world analyses across social, paid, organic and email channels. Each project includes data, analysis code and actionable findings.</p>
+            
+            <div class="projects-grid">
+                <div class="project-card">
+                    <div class="project-header">
+                        <div class="project-number">Project 01</div>
+                        <div class="project-title">Social Media Engagement</div>
+                        <div class="project-subtitle">Cross platform content performance</div>
+                    </div>
+                    <div class="project-body">
+                        <div class="project-description">
+                            Analysed 420 posts across Instagram, TikTok and YouTube Shorts to identify which content themes and formats drive the highest engagement and follower growth.
+                        </div>
+                        <div class="project-metrics">
+                            <div class="metric">
+                                <span class="metric-label">Posts Analysed</span>
+                                <span class="metric-value">420</span>
+                            </div>
+                            <div class="metric">
+                                <span class="metric-label">Engagement Rate Range</span>
+                                <span class="metric-value">0.5% to 11.1%</span>
+                            </div>
+                            <div class="metric">
+                                <span class="metric-label">Top Performer</span>
+                                <span class="metric-value">User Generated Content</span>
+                            </div>
+                        </div>
+                        <div class="project-tools">
+                            <span class="tool-tag">Python</span>
+                            <span class="tool-tag">Pandas</span>
+                            <span class="tool-tag">Matplotlib</span>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="project-card">
+                    <div class="project-header">
+                        <div class="project-number">Project 02</div>
+                        <div class="project-title">Influencer Marketing ROI</div>
+                        <div class="project-subtitle">Creator scoring and partnership evaluation</div>
+                    </div>
+                    <div class="project-body">
+                        <div class="project-description">
+                            Evaluated 35 influencer collaborations across micro, mid and macro tiers to build a composite scoring model for partnership renewal decisions.
+                        </div>
+                        <div class="project-metrics">
+                            <div class="metric">
+                                <span class="metric-label">Creators Analysed</span>
+                                <span class="metric-value">35</span>
+                            </div>
+                            <div class="metric">
+                                <span class="metric-label">Best Tier (ROI)</span>
+                                <span class="metric-value">Micro (1.15x)</span>
+                            </div>
+                            <div class="metric">
+                                <span class="metric-label">Scoring Factors</span>
+                                <span class="metric-value">ROI, Engagement, Efficiency</span>
+                            </div>
+                        </div>
+                        <div class="project-tools">
+                            <span class="tool-tag">Python</span>
+                            <span class="tool-tag">Seaborn</span>
+                            <span class="tool-tag">Scoring Model</span>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="project-card">
+                    <div class="project-header">
+                        <div class="project-number">Project 03</div>
+                        <div class="project-title">Meta Ads Performance</div>
+                        <div class="project-subtitle">Placement and audience optimisation</div>
+                    </div>
+                    <div class="project-body">
+                        <div class="project-description">
+                            Analysed 20 Meta Ads campaigns across placements and audience segments to determine which combinations deliver highest ROAS.
+                        </div>
+                        <div class="project-metrics">
+                            <div class="metric">
+                                <span class="metric-label">Campaigns Analysed</span>
+                                <span class="metric-value">20</span>
+                            </div>
+                            <div class="metric">
+                                <span class="metric-label">Best Audience</span>
+                                <span class="metric-value">Retargeting (3.78x ROAS)</span>
+                            </div>
+                            <div class="metric">
+                                <span class="metric-label">Profitable Campaigns</span>
+                                <span class="metric-value">70%</span>
+                            </div>
+                        </div>
+                        <div class="project-tools">
+                            <span class="tool-tag">Python</span>
+                            <span class="tool-tag">Dashboard</span>
+                            <span class="tool-tag">ROAS Analysis</span>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="project-card">
+                    <div class="project-header">
+                        <div class="project-number">Project 04</div>
+                        <div class="project-title">Google Ads Quality Score</div>
+                        <div class="project-subtitle">Search campaign optimisation</div>
+                    </div>
+                    <div class="project-body">
+                        <div class="project-description">
+                            Analysed 20 search campaigns to show the impact of Quality Score on ROAS and why quality improvements outperform keyword expansion.
+                        </div>
+                        <div class="project-metrics">
+                            <div class="metric">
+                                <span class="metric-label">Campaigns Tracked</span>
+                                <span class="metric-value">20</span>
+                            </div>
+                            <div class="metric">
+                                <span class="metric-label">High vs Low QS Gap</span>
+                                <span class="metric-value">2x ROAS difference</span>
+                            </div>
+                            <div class="metric">
+                                <span class="metric-label">Portfolio ROAS</span>
+                                <span class="metric-value">7.25x</span>
+                            </div>
+                        </div>
+                        <div class="project-tools">
+                            <span class="tool-tag">Python</span>
+                            <span class="tool-tag">SQL</span>
+                            <span class="tool-tag">Heatmap Analysis</span>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="project-card">
+                    <div class="project-header">
+                        <div class="project-number">Project 05</div>
+                        <div class="project-title">SEO Content Audit</div>
+                        <div class="project-subtitle">Organic content performance tracking</div>
+                    </div>
+                    <div class="project-body">
+                        <div class="project-description">
+                            Audited 50 pieces of organic content to identify which topics and formats drive engagement, conversions and revenue.
+                        </div>
+                        <div class="project-metrics">
+                            <div class="metric">
+                                <span class="metric-label">Content Pieces</span>
+                                <span class="metric-value">50</span>
+                            </div>
+                            <div class="metric">
+                                <span class="metric-label">Conversion Rate</span>
+                                <span class="metric-value">28% of pieces</span>
+                            </div>
+                            <div class="metric">
+                                <span class="metric-label">Best Topic</span>
+                                <span class="metric-value">Industry News</span>
+                            </div>
+                        </div>
+                        <div class="project-tools">
+                            <span class="tool-tag">Python</span>
+                            <span class="tool-tag">GA Data</span>
+                            <span class="tool-tag">Scroll Depth Analysis</span>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="project-card">
+                    <div class="project-header">
+                        <div class="project-number">Project 06</div>
+                        <div class="project-title">Email Funnel Optimisation</div>
+                        <div class="project-subtitle">CRM campaign performance</div>
+                    </div>
+                    <div class="project-body">
+                        <div class="project-description">
+                            Analysed 30 email campaigns across 5 audience segments to identify which email types and segments drive highest conversion rates.
+                        </div>
+                        <div class="project-metrics">
+                            <div class="metric">
+                                <span class="metric-label">Campaigns Analysed</span>
+                                <span class="metric-value">30</span>
+                            </div>
+                            <div class="metric">
+                                <span class="metric-label">Best Type</span>
+                                <span class="metric-value">Cart Recovery (11.7%)</span>
+                            </div>
+                            <div class="metric">
+                                <span class="metric-label">Blended CVR</span>
+                                <span class="metric-value">0.8%</span>
+                            </div>
+                        </div>
+                        <div class="project-tools">
+                            <span class="tool-tag">Python</span>
+                            <span class="tool-tag">Funnel Analysis</span>
+                            <span class="tool-tag">Segmentation</span>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="project-card">
+                    <div class="project-header">
+                        <div class="project-number">Project 07</div>
+                        <div class="project-title">Channel Attribution</div>
+                        <div class="project-subtitle">Customer acquisition cost and lifetime value</div>
+                    </div>
+                    <div class="project-body">
+                        <div class="project-description">
+                            Analysed 25 customer cohorts across 6 channels to determine LTV to CAC ratio and identify which channels deliver most efficient acquisition.
+                        </div>
+                        <div class="project-metrics">
+                            <div class="metric">
+                                <span class="metric-label">Cohorts Analysed</span>
+                                <span class="metric-value">25</span>
+                            </div>
+                            <div class="metric">
+                                <span class="metric-label">Best Efficiency</span>
+                                <span class="metric-value">Referral (82.5:1)</span>
+                            </div>
+                            <div class="metric">
+                                <span class="metric-label">Channels</span>
+                                <span class="metric-value">6 acquisition channels</span>
+                            </div>
+                        </div>
+                        <div class="project-tools">
+                            <span class="tool-tag">Python</span>
+                            <span class="tool-tag">Cohort Analysis</span>
+                            <span class="tool-tag">Attribution Modeling</span>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="project-card">
+                    <div class="project-header">
+                        <div class="project-number">Project 08</div>
+                        <div class="project-title">Content Calendar</div>
+                        <div class="project-subtitle">Posting schedule optimisation</div>
+                    </div>
+                    <div class="project-body">
+                        <div class="project-description">
+                            Analysed 60 pieces of content across posting days and times to identify optimal publishing windows for maximum reach and engagement.
+                        </div>
+                        <div class="project-metrics">
+                            <div class="metric">
+                                <span class="metric-label">Content Posts</span>
+                                <span class="metric-value">60</span>
+                            </div>
+                            <div class="metric">
+                                <span class="metric-label">Best Day</span>
+                                <span class="metric-value">Thursday (9.1%)</span>
+                            </div>
+                            <div class="metric">
+                                <span class="metric-label">Best Time</span>
+                                <span class="metric-value">12pm (8.2%)</span>
+                            </div>
+                        </div>
+                        <div class="project-tools">
+                            <span class="tool-tag">Python</span>
+                            <span class="tool-tag">Heatmap</span>
+                            <span class="tool-tag">Time Series</span>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="project-card">
+                    <div class="project-header">
+                        <div class="project-number">Project 09</div>
+                        <div class="project-title">AB Testing</div>
+                        <div class="project-subtitle">Creative and messaging variant analysis</div>
+                    </div>
+                    <div class="project-body">
+                        <div class="project-description">
+                            Analysed 15 AB tests comparing creative variants to show that conversion rate matters more than click through rate.
+                        </div>
+                        <div class="project-metrics">
+                            <div class="metric">
+                                <span class="metric-label">Tests Run</span>
+                                <span class="metric-value">15</span>
+                            </div>
+                            <div class="metric">
+                                <span class="metric-label">Max Revenue Lift</span>
+                                <span class="metric-value">2987%</span>
+                            </div>
+                            <div class="metric">
+                                <span class="metric-label">Total Revenue Tested</span>
+                                <span class="metric-value">INR 1.66M</span>
+                            </div>
+                        </div>
+                        <div class="project-tools">
+                            <span class="tool-tag">Python</span>
+                            <span class="tool-tag">AB Testing</span>
+                            <span class="tool-tag">Statistical Analysis</span>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="project-card">
+                    <div class="project-header">
+                        <div class="project-number">Project 10</div>
+                        <div class="project-title">Marketing Mix Modeling</div>
+                        <div class="project-subtitle">Budget allocation across channels</div>
+                    </div>
+                    <div class="project-body">
+                        <div class="project-description">
+                            Analysed 12 months of marketing spend and revenue across 5 channels to determine which should be scaled and which should be reduced.
+                        </div>
+                        <div class="project-metrics">
+                            <div class="metric">
+                                <span class="metric-label">Months Analysed</span>
+                                <span class="metric-value">12</span>
+                            </div>
+                            <div class="metric">
+                                <span class="metric-label">Total Spend</span>
+                                <span class="metric-value">INR 5.1M</span>
+                            </div>
+                            <div class="metric">
+                                <span class="metric-label">Blended ROAS</span>
+                                <span class="metric-value">90.44x</span>
+                            </div>
+                        </div>
+                        <div class="project-tools">
+                            <span class="tool-tag">Python</span>
+                            <span class="tool-tag">Mix Modeling</span>
+                            <span class="tool-tag">Budget Optimization</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section>
+            <div class="stats-section">
+                <h2 class="section-title">By The Numbers</h2>
+                <div class="stats-grid">
+                    <div class="stat-box">
+                        <div class="stat-number">2+</div>
+                        <div class="stat-label">Years at British Telecom</div>
+                    </div>
+                    <div class="stat-box">
+                        <div class="stat-number">10</div>
+                        <div class="stat-label">Portfolio Projects</div>
+                    </div>
+                    <div class="stat-box">
+                        <div class="stat-number">50K+</div>
+                        <div class="stat-label">Records Analysed</div>
+                    </div>
+                    <div class="stat-box">
+                        <div class="stat-number">15+</div>
+                        <div class="stat-label">Freelance Analyses</div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section>
+            <div class="experience-timeline">
+                <h2 class="section-title">Experience</h2>
+                
+                <div class="timeline-item">
+                    <div class="timeline-date">Feb 2023 to Mar 2025</div>
+                    <div class="timeline-role">Associate Engineer (Business and Data Analyst)</div>
+                    <div class="timeline-description">
+                        British Telecom, Kolkata. Embedded in an operational analytics team supporting UK stakeholders. Defined 20 plus KPIs, built measurement frameworks, created self serve Power BI dashboards reducing manual reporting by 25-30 percent. Wrote SQL queries against 50,000 plus record datasets. Maintained data governance and accuracy standards.
+                    </div>
+                </div>
+
+                <div class="timeline-item">
+                    <div class="timeline-date">Apr 2022 to Present</div>
+                    <div class="timeline-role">Freelance Marketing and Campaign Analyst</div>
+                    <div class="timeline-description">
+                        Independent analytics work for D2C brands and marketing agencies. Analysed social media performance across Instagram, TikTok and YouTube Shorts. Built influencer scoring models. Created paid social and search advertising dashboards. Conducted SEO content audits and email funnel optimisation. Built customer acquisition and channel attribution models.
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section>
+            <div class="cta-section">
+                <h2>Ready to talk about marketing measurement?</h2>
+                <p style="font-size: 1.1em; margin-bottom: 30px; opacity: 0.95;">I build dashboards and analyses that drive decisions. Let's discuss how to measure what matters in your marketing.</p>
+                <a href="mailto:preronamajumdar99@gmail.com" class="cta-button">Email</a>
+                <a href="https://www.linkedin.com/in/prerona-majumdar-591202203/" class="cta-button">LinkedIn</a>
+                <a href="https://github.com/prerona-analytics" class="cta-button">GitHub</a>
+            </div>
+        </section>
+    </div>
+
+    <footer>
+        <p>Prerona Majumdar | Marketing Analyst | Kolkata, India</p>
+        <p style="margin-top: 10px; opacity: 0.8;">9831741720 | Preronamajumdar99@gmail.com</p>
+        <p style="margin-top: 15px; opacity: 0.6;">This portfolio showcases analytical projects and case studies. All data is synthetic and used for demonstration purposes.</p>
+    </footer>
+</body>
+</html>
