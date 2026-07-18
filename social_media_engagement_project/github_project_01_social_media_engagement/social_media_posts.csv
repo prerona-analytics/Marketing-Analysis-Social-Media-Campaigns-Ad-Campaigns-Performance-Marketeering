@@ -1,0 +1,421 @@
+post_id,platform,post_date,content_type,theme,reach,likes,comments,shares,saves,follows_gained,engagement_rate
+P0001,Instagram,2025-05-21,Story,User Generated Content,3515,301,18,25,61,3,0.1114
+P0002,TikTok,2025-02-08,Short Video,Trend Based,14498,585,38,59,115,24,0.0519
+P0003,Instagram,2025-01-17,Reel,Trend Based,30040,1715,68,322,329,94,0.0744
+P0004,Instagram,2025-03-21,Reel,Styling Tips,13151,356,18,49,50,33,0.0324
+P0005,TikTok,2025-01-06,Short Video,Trend Based,21159,145,11,14,25,83,0.0082
+P0006,YouTube Shorts,2025-03-11,Short Video,Promotional Offer,1559,28,2,2,6,0,0.0245
+P0007,YouTube Shorts,2025-02-05,Short Video,Product Launch,14438,756,64,53,114,18,0.0647
+P0008,YouTube Shorts,2025-03-01,Short Video,Styling Tips,10215,190,14,32,32,10,0.023
+P0009,TikTok,2025-05-10,Short Video,Product Launch,5777,175,9,31,31,19,0.0396
+P0010,TikTok,2025-02-14,Short Video,Promotional Offer,12806,187,11,17,50,34,0.0205
+P0011,TikTok,2025-03-24,Short Video,Trend Based,35992,2379,114,272,600,88,0.0883
+P0012,TikTok,2025-05-28,Short Video,Product Launch,14808,594,32,48,93,78,0.0526
+P0013,Instagram,2025-03-14,Carousel,Product Launch,7738,216,17,17,53,15,0.0347
+P0014,YouTube Shorts,2025-01-10,Short Video,Styling Tips,2687,73,5,15,11,8,0.0381
+P0015,TikTok,2025-02-13,Short Video,User Generated Content,25044,1304,121,222,168,91,0.0685
+P0016,TikTok,2025-04-17,Short Video,User Generated Content,19662,869,73,79,192,58,0.0602
+P0017,YouTube Shorts,2025-05-02,Short Video,Product Launch,5199,237,12,19,58,16,0.0568
+P0018,Instagram,2025-06-11,Story,Trend Based,2797,56,5,10,14,15,0.027
+P0019,TikTok,2025-06-18,Short Video,User Generated Content,44699,2719,277,530,410,112,0.0805
+P0020,TikTok,2025-04-28,Short Video,User Generated Content,62474,1712,153,262,416,280,0.0366
+P0021,TikTok,2025-04-02,Short Video,Styling Tips,23952,1017,65,168,158,45,0.0502
+P0022,TikTok,2025-02-05,Short Video,Product Launch,4033,101,9,17,15,3,0.03
+P0023,YouTube Shorts,2025-04-10,Short Video,Product Launch,9955,239,17,28,41,48,0.0326
+P0024,YouTube Shorts,2025-01-18,Short Video,Trend Based,5144,378,30,56,57,13,0.0907
+P0025,YouTube Shorts,2025-02-16,Short Video,User Generated Content,8322,186,13,14,49,7,0.0316
+P0026,TikTok,2025-03-01,Short Video,Trend Based,30483,1145,73,168,193,176,0.0532
+P0027,Instagram,2025-06-01,Story,Styling Tips,11263,557,28,113,128,7,0.0687
+P0028,Instagram,2025-01-15,Carousel,Behind the Scenes,3178,53,2,5,10,8,0.0233
+P0029,TikTok,2025-04-25,Short Video,Promotional Offer,29177,485,19,63,59,21,0.0205
+P0030,Instagram,2025-02-26,Reel,Product Launch,15354,769,62,54,193,77,0.0651
+P0031,Instagram,2025-04-01,Reel,User Generated Content,14374,835,73,61,176,87,0.0818
+P0032,TikTok,2025-04-14,Short Video,Behind the Scenes,13346,318,28,46,42,17,0.0301
+P0033,Instagram,2025-01-17,Reel,Promotional Offer,3565,95,3,15,13,2,0.0325
+P0034,TikTok,2025-06-18,Short Video,Promotional Offer,9318,174,11,23,33,22,0.0239
+P0035,Instagram,2025-04-12,Reel,Trend Based,19456,506,33,71,96,61,0.0354
+P0036,Instagram,2025-01-02,Reel,Styling Tips,9333,286,22,34,42,16,0.0391
+P0037,TikTok,2025-06-20,Short Video,Styling Tips,10414,399,37,26,79,27,0.0454
+P0038,TikTok,2025-05-04,Short Video,Styling Tips,14731,479,25,56,117,16,0.0426
+P0039,TikTok,2025-06-27,Short Video,Trend Based,5215,122,11,18,18,7,0.0279
+P0040,TikTok,2025-05-07,Short Video,Trend Based,10700,267,18,38,61,57,0.0339
+P0041,YouTube Shorts,2025-05-03,Short Video,Product Launch,4462,72,5,9,17,24,0.0227
+P0042,TikTok,2025-01-08,Short Video,Promotional Offer,18060,225,12,24,61,42,0.0172
+P0043,Instagram,2025-02-20,Static Post,User Generated Content,40917,1209,88,141,249,50,0.0406
+P0044,YouTube Shorts,2025-05-06,Short Video,User Generated Content,1037,57,2,10,12,6,0.0687
+P0045,TikTok,2025-03-17,Short Video,Product Launch,38850,1197,98,145,325,187,0.0426
+P0046,YouTube Shorts,2025-01-07,Short Video,Behind the Scenes,5306,117,10,15,24,15,0.0272
+P0047,Instagram,2025-01-24,Reel,Product Launch,10230,518,39,55,60,40,0.0633
+P0048,TikTok,2025-05-30,Short Video,Trend Based,40707,1429,139,218,275,136,0.0492
+P0049,TikTok,2025-05-07,Short Video,Trend Based,14881,616,48,73,108,92,0.055
+P0050,Instagram,2025-02-23,Carousel,Styling Tips,24361,843,79,139,96,17,0.045
+P0051,TikTok,2025-03-01,Short Video,Behind the Scenes,3281,100,5,9,13,8,0.0428
+P0052,Instagram,2025-06-07,Reel,User Generated Content,15017,664,64,76,110,14,0.0604
+P0053,TikTok,2025-03-24,Short Video,Promotional Offer,6295,79,3,12,15,3,0.0156
+P0054,YouTube Shorts,2025-01-01,Short Video,Promotional Offer,4577,116,5,17,20,11,0.0304
+P0055,Instagram,2025-05-09,Reel,User Generated Content,10904,649,47,93,99,25,0.0832
+P0056,Instagram,2025-06-01,Reel,Product Launch,9888,253,18,28,53,30,0.0341
+P0057,TikTok,2025-04-16,Short Video,Trend Based,14792,1143,74,176,228,43,0.1041
+P0058,YouTube Shorts,2025-06-18,Short Video,Promotional Offer,3394,12,1,0,3,1,0.005
+P0059,Instagram,2025-03-13,Static Post,Trend Based,6986,464,44,61,86,17,0.083
+P0060,TikTok,2025-06-24,Short Video,Trend Based,9517,593,49,96,68,36,0.08
+P0061,YouTube Shorts,2025-04-06,Short Video,Promotional Offer,3557,63,7,7,15,3,0.0251
+P0062,TikTok,2025-01-22,Short Video,Product Launch,73997,2109,213,367,380,390,0.0398
+P0063,YouTube Shorts,2025-02-02,Short Video,Behind the Scenes,4808,125,5,19,15,4,0.0316
+P0064,Instagram,2025-04-25,Static Post,User Generated Content,8558,512,33,77,119,36,0.0746
+P0065,TikTok,2025-02-11,Short Video,Product Launch,14453,843,61,62,194,54,0.0698
+P0066,Instagram,2025-03-31,Reel,Promotional Offer,7570,301,24,47,36,7,0.049
+P0067,TikTok,2025-06-07,Short Video,Promotional Offer,20381,402,17,43,85,16,0.0239
+P0068,Instagram,2025-01-03,Static Post,Behind the Scenes,14550,698,63,128,107,16,0.0607
+P0069,Instagram,2025-01-28,Reel,User Generated Content,12228,1060,111,216,223,57,0.1234
+P0070,YouTube Shorts,2025-05-19,Short Video,Behind the Scenes,2642,59,5,11,7,3,0.0313
+P0071,Instagram,2025-03-01,Reel,Product Launch,3596,101,8,9,23,13,0.0372
+P0072,Instagram,2025-06-15,Carousel,Behind the Scenes,1779,22,1,2,2,1,0.0163
+P0073,TikTok,2025-01-07,Short Video,Trend Based,43345,1459,80,202,392,155,0.0459
+P0074,TikTok,2025-01-16,Short Video,Trend Based,21261,1023,97,102,270,44,0.0678
+P0075,Instagram,2025-05-31,Reel,Trend Based,2140,136,9,17,24,11,0.0816
+P0076,Instagram,2025-03-09,Reel,User Generated Content,19138,379,20,65,85,18,0.0282
+P0077,Instagram,2025-04-01,Reel,User Generated Content,1861,130,9,19,27,11,0.0842
+P0078,TikTok,2025-05-30,Short Video,Trend Based,61502,1741,175,120,211,128,0.0381
+P0079,Instagram,2025-04-26,Reel,Styling Tips,10755,367,34,42,41,40,0.0456
+P0080,Instagram,2025-03-20,Static Post,Product Launch,10943,398,40,54,103,50,0.0505
+P0081,Instagram,2025-05-14,Reel,Trend Based,5692,476,30,37,112,28,0.1051
+P0082,TikTok,2025-06-14,Short Video,Trend Based,24639,748,59,127,100,22,0.0388
+P0083,Instagram,2025-05-12,Story,Trend Based,18798,439,40,50,96,63,0.0298
+P0084,Instagram,2025-01-15,Story,Product Launch,2329,112,7,18,17,8,0.0647
+P0085,TikTok,2025-01-25,Short Video,Trend Based,3476,152,15,28,40,6,0.0606
+P0086,TikTok,2025-01-20,Short Video,Behind the Scenes,12891,302,19,28,67,38,0.0292
+P0087,TikTok,2025-01-01,Short Video,Trend Based,16575,657,54,92,110,22,0.0469
+P0088,YouTube Shorts,2025-05-12,Short Video,User Generated Content,11994,852,43,101,109,75,0.0859
+P0089,YouTube Shorts,2025-04-16,Short Video,Behind the Scenes,548,13,0,1,2,1,0.03
+P0090,TikTok,2025-06-02,Short Video,Styling Tips,26359,681,35,53,76,85,0.0327
+P0091,Instagram,2025-04-14,Static Post,Styling Tips,8375,435,30,49,99,18,0.0642
+P0092,TikTok,2025-01-04,Short Video,Behind the Scenes,11982,472,46,49,99,20,0.0481
+P0093,TikTok,2025-04-15,Short Video,Product Launch,9827,151,11,24,16,29,0.0206
+P0094,Instagram,2025-02-12,Story,Behind the Scenes,5840,172,8,31,37,4,0.0369
+P0095,Instagram,2025-04-19,Story,Trend Based,10502,564,28,91,64,11,0.0651
+P0096,Instagram,2025-05-21,Reel,Behind the Scenes,3977,104,9,18,12,6,0.0315
+P0097,TikTok,2025-06-29,Short Video,Trend Based,19848,1416,55,243,319,70,0.0879
+P0098,Instagram,2025-06-09,Reel,Promotional Offer,7908,242,17,29,37,19,0.043
+P0099,TikTok,2025-06-23,Short Video,Trend Based,21970,1554,124,206,363,114,0.09
+P0100,TikTok,2025-06-03,Short Video,Styling Tips,18538,791,62,110,167,21,0.053
+P0101,YouTube Shorts,2025-03-25,Short Video,Behind the Scenes,2863,84,7,15,13,3,0.0424
+P0102,Instagram,2025-04-24,Reel,Product Launch,15907,313,13,48,55,86,0.0241
+P0103,Instagram,2025-05-16,Carousel,Trend Based,7122,457,20,69,89,26,0.0763
+P0104,Instagram,2025-06-06,Reel,Behind the Scenes,3759,102,4,12,20,10,0.0388
+P0105,TikTok,2025-01-29,Short Video,Behind the Scenes,18256,500,34,80,69,56,0.0331
+P0106,TikTok,2025-04-28,Short Video,Styling Tips,11514,196,15,23,29,49,0.0223
+P0107,Instagram,2025-02-08,Story,Behind the Scenes,6351,161,10,28,19,20,0.0307
+P0108,TikTok,2025-06-02,Short Video,User Generated Content,31700,2053,221,325,511,110,0.0919
+P0109,Instagram,2025-02-14,Reel,Styling Tips,1715,63,3,8,10,7,0.0465
+P0110,Instagram,2025-03-12,Carousel,Trend Based,49839,2048,185,325,215,184,0.0511
+P0111,Instagram,2025-04-13,Reel,Product Launch,9232,308,28,59,36,30,0.0445
+P0112,YouTube Shorts,2025-01-06,Short Video,Trend Based,7375,261,21,43,34,13,0.0451
+P0113,Instagram,2025-06-11,Carousel,User Generated Content,31809,2208,227,429,459,164,0.0932
+P0114,TikTok,2025-06-11,Short Video,User Generated Content,48138,2482,175,383,279,54,0.0647
+P0115,Instagram,2025-04-21,Reel,Promotional Offer,4002,18,1,1,2,1,0.0057
+P0116,TikTok,2025-06-29,Short Video,Promotional Offer,10297,259,10,17,35,17,0.0314
+P0117,YouTube Shorts,2025-05-14,Short Video,Behind the Scenes,627,11,0,1,2,1,0.0216
+P0118,TikTok,2025-06-07,Short Video,Styling Tips,11992,528,50,47,103,35,0.0558
+P0119,TikTok,2025-05-20,Short Video,User Generated Content,58218,1013,74,122,118,189,0.023
+P0120,Instagram,2025-04-03,Carousel,Trend Based,24705,363,37,36,76,68,0.0194
+P0121,TikTok,2025-06-24,Short Video,Styling Tips,2944,78,6,9,19,6,0.0368
+P0122,Instagram,2025-02-15,Carousel,Product Launch,2747,42,3,7,9,7,0.0207
+P0123,YouTube Shorts,2025-02-07,Short Video,Trend Based,6524,252,24,17,30,23,0.0497
+P0124,YouTube Shorts,2025-01-19,Short Video,Promotional Offer,12018,364,30,24,56,37,0.0393
+P0125,TikTok,2025-03-29,Short Video,User Generated Content,9312,484,42,45,104,58,0.0697
+P0126,Instagram,2025-06-06,Static Post,Trend Based,16847,572,43,67,104,101,0.0404
+P0127,TikTok,2025-01-21,Short Video,Styling Tips,21438,747,54,79,92,61,0.0436
+P0128,Instagram,2025-06-06,Story,Product Launch,12018,826,49,82,159,55,0.0826
+P0129,TikTok,2025-02-27,Short Video,Product Launch,13515,780,45,110,149,46,0.0724
+P0130,Instagram,2025-02-12,Carousel,Product Launch,2758,86,6,12,14,7,0.0399
+P0131,YouTube Shorts,2025-03-28,Short Video,Behind the Scenes,1186,10,0,1,2,3,0.0115
+P0132,YouTube Shorts,2025-05-29,Short Video,Promotional Offer,7565,179,13,18,22,13,0.0281
+P0133,Instagram,2025-02-16,Reel,Styling Tips,3029,54,3,7,11,4,0.023
+P0134,Instagram,2025-01-23,Reel,User Generated Content,13625,704,65,64,179,43,0.0695
+P0135,Instagram,2025-01-08,Static Post,Styling Tips,10354,371,33,32,47,30,0.0435
+P0136,Instagram,2025-02-12,Static Post,Product Launch,5043,274,22,21,55,14,0.0713
+P0137,TikTok,2025-05-13,Short Video,Product Launch,13125,572,50,90,118,24,0.062
+P0138,Instagram,2025-01-26,Carousel,Trend Based,18254,339,23,54,36,52,0.0242
+P0139,YouTube Shorts,2025-05-11,Short Video,Styling Tips,1078,38,4,3,6,1,0.0505
+P0140,Instagram,2025-05-30,Reel,Product Launch,6051,254,20,40,37,17,0.0568
+P0141,Instagram,2025-04-30,Reel,Styling Tips,21527,735,60,151,104,69,0.0482
+P0142,Instagram,2025-03-18,Carousel,Trend Based,708,30,1,4,6,1,0.051
+P0143,TikTok,2025-04-23,Short Video,Styling Tips,15898,473,39,69,48,27,0.0361
+P0144,Instagram,2025-03-04,Reel,Promotional Offer,5585,44,4,8,5,14,0.0107
+P0145,TikTok,2025-06-03,Short Video,Styling Tips,14640,482,42,75,101,25,0.0396
+P0146,Instagram,2025-01-28,Carousel,Behind the Scenes,9956,271,16,38,34,32,0.0354
+P0147,YouTube Shorts,2025-04-01,Short Video,Styling Tips,2095,53,2,4,14,5,0.0362
+P0148,YouTube Shorts,2025-02-26,Short Video,Styling Tips,90,3,0,0,0,0,0.0461
+P0149,Instagram,2025-02-08,Static Post,Behind the Scenes,17300,417,28,37,49,50,0.0324
+P0150,Instagram,2025-04-22,Reel,Styling Tips,2215,83,4,13,20,7,0.0516
+P0151,TikTok,2025-04-28,Short Video,Trend Based,28145,170,11,34,25,46,0.0083
+P0152,Instagram,2025-05-17,Static Post,Promotional Offer,5795,67,4,14,16,17,0.0166
+P0153,TikTok,2025-02-17,Short Video,User Generated Content,19843,1623,81,306,245,88,0.1132
+P0154,YouTube Shorts,2025-03-13,Short Video,Promotional Offer,10508,243,20,23,46,17,0.0275
+P0155,Instagram,2025-02-15,Static Post,Behind the Scenes,9169,282,19,27,69,17,0.0406
+P0156,YouTube Shorts,2025-05-13,Short Video,Promotional Offer,14043,316,29,25,39,6,0.0316
+P0157,YouTube Shorts,2025-03-11,Short Video,Promotional Offer,4775,119,9,12,18,9,0.0298
+P0158,YouTube Shorts,2025-01-04,Short Video,Behind the Scenes,8941,159,8,13,32,25,0.0235
+P0159,TikTok,2025-03-28,Short Video,Behind the Scenes,8769,290,13,37,71,18,0.043
+P0160,TikTok,2025-01-24,Short Video,Behind the Scenes,16833,393,26,48,79,57,0.0309
+P0161,Instagram,2025-06-09,Reel,User Generated Content,2981,202,17,34,26,14,0.0819
+P0162,TikTok,2025-05-12,Short Video,Trend Based,34135,2499,253,459,272,62,0.0937
+P0163,Instagram,2025-06-23,Static Post,User Generated Content,3521,158,14,25,31,4,0.059
+P0164,Instagram,2025-04-25,Reel,Styling Tips,4335,149,9,26,42,4,0.0491
+P0165,Instagram,2025-02-25,Static Post,User Generated Content,18249,1084,65,140,193,101,0.074
+P0166,YouTube Shorts,2025-05-15,Short Video,Styling Tips,1346,23,2,4,3,3,0.023
+P0167,TikTok,2025-04-17,Short Video,Trend Based,5409,71,6,8,17,7,0.0188
+P0168,TikTok,2025-04-02,Short Video,Styling Tips,8781,327,13,40,61,25,0.0463
+P0169,Instagram,2025-01-27,Reel,Trend Based,23526,1469,143,204,250,37,0.0854
+P0170,TikTok,2025-01-16,Short Video,Product Launch,24847,503,45,67,77,94,0.0238
+P0171,TikTok,2025-05-04,Short Video,User Generated Content,25084,490,43,73,101,118,0.027
+P0172,YouTube Shorts,2025-06-19,Short Video,User Generated Content,5445,97,4,15,15,19,0.0217
+P0173,Instagram,2025-06-13,Reel,Behind the Scenes,4813,75,2,7,8,2,0.0203
+P0174,Instagram,2025-02-14,Reel,Trend Based,21394,755,30,91,77,26,0.0433
+P0175,YouTube Shorts,2025-03-04,Short Video,Product Launch,14562,398,36,56,51,73,0.0372
+P0176,Instagram,2025-05-12,Static Post,Trend Based,4113,247,25,35,39,6,0.0782
+P0177,Instagram,2025-01-16,Reel,Behind the Scenes,8460,370,25,52,88,18,0.0596
+P0178,TikTok,2025-03-24,Short Video,Trend Based,6478,333,25,38,52,30,0.0623
+P0179,TikTok,2025-05-26,Short Video,Trend Based,12277,558,32,50,91,65,0.0622
+P0180,TikTok,2025-04-29,Short Video,Promotional Offer,6620,112,9,15,21,4,0.0217
+P0181,Instagram,2025-03-31,Reel,Behind the Scenes,7498,133,12,25,18,15,0.0236
+P0182,Instagram,2025-02-19,Static Post,Styling Tips,15057,232,15,26,40,17,0.0185
+P0183,TikTok,2025-06-13,Short Video,Promotional Offer,7624,159,12,12,25,16,0.0252
+P0184,Instagram,2025-05-14,Story,Styling Tips,2816,85,9,16,18,2,0.0406
+P0185,TikTok,2025-04-05,Short Video,User Generated Content,30390,1668,81,279,367,116,0.0678
+P0186,TikTok,2025-06-27,Short Video,Styling Tips,16912,665,64,124,129,25,0.0533
+P0187,Instagram,2025-02-13,Reel,Product Launch,6777,182,14,25,27,32,0.0331
+P0188,TikTok,2025-04-25,Short Video,User Generated Content,26342,868,36,72,197,54,0.041
+P0189,YouTube Shorts,2025-05-05,Short Video,User Generated Content,1000,44,2,7,12,5,0.063
+P0190,TikTok,2025-01-11,Short Video,User Generated Content,24698,1347,74,171,241,51,0.0779
+P0191,Instagram,2025-06-25,Reel,User Generated Content,9191,278,26,26,62,22,0.0374
+P0192,YouTube Shorts,2025-05-06,Short Video,Behind the Scenes,8980,430,34,52,58,7,0.0615
+P0193,Instagram,2025-01-03,Reel,Product Launch,1261,43,2,7,5,6,0.0463
+P0194,YouTube Shorts,2025-03-01,Short Video,Product Launch,10490,777,53,80,182,36,0.0998
+P0195,TikTok,2025-02-09,Short Video,Styling Tips,41450,1164,121,93,321,26,0.0399
+P0196,TikTok,2025-06-13,Short Video,Styling Tips,4936,141,7,28,25,17,0.0394
+P0197,TikTok,2025-01-19,Short Video,Styling Tips,11194,47,3,6,7,33,0.005
+P0198,Instagram,2025-01-08,Reel,Product Launch,16463,720,49,91,144,49,0.0568
+P0199,Instagram,2025-04-03,Carousel,Product Launch,7271,209,14,21,51,19,0.0367
+P0200,Instagram,2025-03-04,Carousel,Promotional Offer,11127,271,26,21,38,16,0.0303
+P0201,Instagram,2025-05-09,Carousel,Promotional Offer,1105,37,3,2,7,0,0.0407
+P0202,Instagram,2025-05-04,Reel,Styling Tips,5911,118,5,14,26,4,0.0265
+P0203,Instagram,2025-05-01,Reel,Behind the Scenes,2225,82,7,16,18,7,0.0528
+P0204,TikTok,2025-05-14,Short Video,User Generated Content,21865,1134,50,132,279,116,0.0676
+P0205,Instagram,2025-01-13,Carousel,Product Launch,30925,1018,81,194,215,55,0.0463
+P0206,Instagram,2025-06-14,Carousel,Styling Tips,15371,631,50,100,135,30,0.0543
+P0207,Instagram,2025-01-09,Carousel,Styling Tips,1210,36,2,2,5,4,0.0387
+P0208,TikTok,2025-05-02,Short Video,Product Launch,24009,541,33,75,61,73,0.0266
+P0209,Instagram,2025-01-25,Carousel,User Generated Content,6482,85,4,11,10,35,0.0176
+P0210,Instagram,2025-06-09,Reel,User Generated Content,2608,45,3,3,8,9,0.023
+P0211,TikTok,2025-05-31,Short Video,User Generated Content,4680,248,18,40,36,25,0.073
+P0212,TikTok,2025-04-15,Short Video,Product Launch,31711,2355,152,455,565,119,0.0961
+P0213,TikTok,2025-03-25,Short Video,Behind the Scenes,4989,140,13,11,26,11,0.0349
+P0214,Instagram,2025-01-24,Carousel,Trend Based,10606,555,55,108,73,38,0.0706
+P0215,YouTube Shorts,2025-05-16,Short Video,Styling Tips,4163,129,9,15,25,17,0.0399
+P0216,Instagram,2025-06-26,Static Post,Promotional Offer,679,19,1,1,2,1,0.0363
+P0217,Instagram,2025-02-26,Static Post,User Generated Content,16935,1066,100,69,241,63,0.0773
+P0218,TikTok,2025-03-06,Short Video,Promotional Offer,4697,76,2,13,14,12,0.0193
+P0219,Instagram,2025-03-03,Reel,Product Launch,5210,236,10,26,48,10,0.0563
+P0220,TikTok,2025-02-25,Short Video,Trend Based,23731,1751,65,130,401,116,0.0917
+P0221,Instagram,2025-05-08,Static Post,Styling Tips,24040,690,38,72,163,99,0.0386
+P0222,Instagram,2025-04-15,Story,Promotional Offer,2906,25,1,3,6,2,0.0123
+P0223,TikTok,2025-03-23,Short Video,Trend Based,25781,2331,159,219,348,66,0.1161
+P0224,TikTok,2025-01-26,Short Video,Styling Tips,24434,740,36,112,86,83,0.0408
+P0225,Instagram,2025-05-21,Reel,Behind the Scenes,961,34,2,3,8,0,0.0457
+P0226,YouTube Shorts,2025-03-06,Short Video,Product Launch,8195,285,25,32,65,20,0.0425
+P0227,YouTube Shorts,2025-01-21,Short Video,Promotional Offer,7366,236,18,18,31,21,0.0389
+P0228,Instagram,2025-06-21,Reel,User Generated Content,11609,428,32,28,64,71,0.0452
+P0229,TikTok,2025-03-27,Short Video,Product Launch,13555,751,78,73,156,37,0.0792
+P0230,TikTok,2025-04-29,Short Video,Product Launch,27519,1031,77,102,124,107,0.0468
+P0231,TikTok,2025-06-25,Short Video,Styling Tips,18016,504,21,34,102,67,0.0356
+P0232,TikTok,2025-02-18,Short Video,Promotional Offer,34243,722,46,96,141,14,0.0273
+P0233,TikTok,2025-01-08,Short Video,Styling Tips,5645,153,8,13,37,15,0.0368
+P0234,Instagram,2025-01-22,Reel,Product Launch,25837,1061,68,70,163,99,0.0546
+P0235,YouTube Shorts,2025-01-05,Short Video,User Generated Content,21949,1283,83,134,146,45,0.0761
+P0236,Instagram,2025-03-27,Carousel,Styling Tips,11890,423,28,43,61,12,0.0501
+P0237,TikTok,2025-02-26,Short Video,Behind the Scenes,11705,333,15,45,70,40,0.034
+P0238,Instagram,2025-06-10,Static Post,Product Launch,12339,308,20,27,51,49,0.0296
+P0239,Instagram,2025-05-17,Reel,Trend Based,10019,466,43,58,111,48,0.0594
+P0240,Instagram,2025-06-03,Story,Behind the Scenes,1730,16,1,1,3,6,0.0122
+P0241,Instagram,2025-03-05,Static Post,User Generated Content,14959,918,53,147,187,37,0.0726
+P0242,Instagram,2025-01-30,Carousel,Product Launch,8480,311,13,38,84,15,0.0524
+P0243,TikTok,2025-02-27,Short Video,Behind the Scenes,31093,651,26,83,135,25,0.0274
+P0244,Instagram,2025-06-21,Reel,User Generated Content,13017,51,2,3,5,42,0.005
+P0245,Instagram,2025-02-15,Carousel,Promotional Offer,18600,637,34,122,79,33,0.0465
+P0246,Instagram,2025-06-22,Reel,Behind the Scenes,1874,27,2,3,4,2,0.0191
+P0247,YouTube Shorts,2025-03-05,Short Video,Promotional Offer,6620,239,17,21,46,6,0.0469
+P0248,Instagram,2025-04-25,Story,Styling Tips,5263,212,9,36,23,17,0.0524
+P0249,TikTok,2025-05-29,Short Video,Behind the Scenes,8357,158,16,19,31,17,0.0256
+P0250,TikTok,2025-04-05,Short Video,Styling Tips,13236,226,9,37,60,18,0.0233
+P0251,TikTok,2025-06-02,Short Video,Product Launch,6522,158,13,13,24,33,0.0302
+P0252,YouTube Shorts,2025-03-12,Short Video,Trend Based,2799,106,8,9,23,12,0.0485
+P0253,YouTube Shorts,2025-03-28,Short Video,Behind the Scenes,5344,137,11,24,31,5,0.0357
+P0254,YouTube Shorts,2025-05-06,Short Video,Behind the Scenes,6439,231,19,39,32,19,0.0448
+P0255,Instagram,2025-04-30,Reel,Trend Based,10694,613,39,80,90,39,0.0717
+P0256,TikTok,2025-03-11,Short Video,Styling Tips,9502,124,10,16,30,7,0.0162
+P0257,TikTok,2025-03-28,Short Video,User Generated Content,14963,773,59,78,171,53,0.0645
+P0258,Instagram,2025-06-03,Reel,User Generated Content,12681,254,13,18,44,23,0.0277
+P0259,Instagram,2025-05-12,Story,Promotional Offer,8676,164,9,11,25,26,0.0236
+P0260,TikTok,2025-05-13,Short Video,Trend Based,3715,237,23,24,57,23,0.0809
+P0261,Instagram,2025-02-02,Carousel,Behind the Scenes,9628,239,19,27,35,16,0.0306
+P0262,Instagram,2025-05-14,Reel,Product Launch,4119,272,22,25,72,4,0.0918
+P0263,Instagram,2025-04-23,Static Post,User Generated Content,15241,1068,61,104,204,86,0.0886
+P0264,YouTube Shorts,2025-03-22,Short Video,Behind the Scenes,9038,91,7,11,24,19,0.0142
+P0265,YouTube Shorts,2025-03-13,Short Video,Behind the Scenes,11553,404,16,24,63,8,0.0414
+P0266,TikTok,2025-03-20,Short Video,Product Launch,6997,430,36,68,96,13,0.0877
+P0267,TikTok,2025-05-28,Short Video,Product Launch,11637,273,22,40,46,27,0.0321
+P0268,YouTube Shorts,2025-03-30,Short Video,User Generated Content,1094,41,2,7,6,5,0.0486
+P0269,Instagram,2025-04-07,Reel,User Generated Content,25801,1639,142,195,319,56,0.0794
+P0270,TikTok,2025-03-31,Short Video,Behind the Scenes,9060,269,19,45,53,9,0.0389
+P0271,TikTok,2025-03-26,Short Video,Promotional Offer,6727,118,4,13,28,4,0.0218
+P0272,TikTok,2025-02-03,Short Video,Product Launch,7901,351,15,34,51,15,0.0554
+P0273,TikTok,2025-03-06,Short Video,Product Launch,19831,926,93,180,148,48,0.0626
+P0274,TikTok,2025-02-27,Short Video,Product Launch,26016,1256,113,129,207,71,0.059
+P0275,Instagram,2025-03-15,Reel,Promotional Offer,464,9,0,1,1,1,0.0273
+P0276,Instagram,2025-01-04,Carousel,Trend Based,611,26,1,2,4,2,0.0566
+P0277,Instagram,2025-02-18,Reel,Trend Based,15488,987,59,146,214,75,0.0752
+P0278,Instagram,2025-04-01,Static Post,Promotional Offer,14690,388,17,55,46,19,0.0339
+P0279,Instagram,2025-03-12,Static Post,Promotional Offer,10135,235,9,39,27,17,0.0305
+P0280,TikTok,2025-02-09,Short Video,Promotional Offer,2452,67,5,8,15,2,0.0342
+P0281,Instagram,2025-04-02,Reel,Trend Based,17191,641,46,104,74,43,0.0532
+P0282,Instagram,2025-03-12,Reel,Trend Based,472,17,1,2,4,1,0.0483
+P0283,Instagram,2025-05-12,Reel,Trend Based,13291,413,17,46,104,41,0.0412
+P0284,YouTube Shorts,2025-03-09,Short Video,Product Launch,18245,762,57,101,121,73,0.0547
+P0285,TikTok,2025-05-01,Short Video,User Generated Content,12303,383,39,65,99,62,0.0427
+P0286,TikTok,2025-06-10,Short Video,Behind the Scenes,16516,252,21,25,34,23,0.0198
+P0287,Instagram,2025-06-06,Reel,Trend Based,15197,878,40,105,149,99,0.0734
+P0288,Instagram,2025-02-17,Carousel,Product Launch,26468,443,23,71,63,95,0.0226
+P0289,Instagram,2025-03-25,Static Post,Styling Tips,15571,660,30,58,110,24,0.0522
+P0290,Instagram,2025-04-24,Story,Promotional Offer,8763,164,12,27,29,19,0.0257
+P0291,Instagram,2025-04-14,Static Post,Product Launch,23830,1504,133,274,199,21,0.0769
+P0292,Instagram,2025-06-10,Reel,Styling Tips,3622,98,6,7,11,14,0.0381
+P0293,TikTok,2025-01-08,Short Video,Styling Tips,13360,624,57,85,117,58,0.0589
+P0294,TikTok,2025-05-02,Short Video,User Generated Content,70454,5828,343,611,1082,306,0.0996
+P0295,TikTok,2025-06-26,Short Video,Promotional Offer,32671,966,40,116,197,75,0.0375
+P0296,Instagram,2025-04-24,Story,Promotional Offer,9889,225,18,39,56,15,0.0321
+P0297,Instagram,2025-05-01,Reel,Behind the Scenes,6254,205,18,33,49,13,0.0408
+P0298,TikTok,2025-06-08,Short Video,Trend Based,51546,2754,259,230,585,259,0.0751
+P0299,Instagram,2025-04-20,Reel,Product Launch,19062,829,82,157,117,82,0.0595
+P0300,Instagram,2025-02-06,Static Post,User Generated Content,18726,1199,116,193,144,51,0.0808
+P0301,Instagram,2025-06-03,Reel,Product Launch,26447,905,51,92,173,53,0.0482
+P0302,Instagram,2025-04-06,Reel,Promotional Offer,2805,75,3,13,12,3,0.0365
+P0303,Instagram,2025-05-26,Story,Behind the Scenes,1933,63,3,8,10,4,0.0456
+P0304,YouTube Shorts,2025-03-28,Short Video,Promotional Offer,2933,35,1,6,6,9,0.017
+P0305,Instagram,2025-03-17,Static Post,Promotional Offer,1902,55,4,9,8,3,0.0365
+P0306,YouTube Shorts,2025-05-18,Short Video,Product Launch,20202,822,67,113,173,79,0.0528
+P0307,Instagram,2025-03-16,Static Post,Styling Tips,5509,187,12,31,29,23,0.042
+P0308,YouTube Shorts,2025-04-30,Short Video,Promotional Offer,9780,105,5,9,25,11,0.0145
+P0309,YouTube Shorts,2025-01-26,Short Video,Trend Based,10562,377,30,71,93,19,0.0502
+P0310,TikTok,2025-02-15,Short Video,Product Launch,39214,3366,253,455,357,99,0.1056
+P0311,Instagram,2025-03-05,Reel,Product Launch,14614,721,45,72,110,75,0.0699
+P0312,TikTok,2025-05-20,Short Video,Product Launch,17132,1082,90,199,174,71,0.0813
+P0313,TikTok,2025-01-06,Short Video,User Generated Content,30959,1554,148,198,275,33,0.0634
+P0314,Instagram,2025-06-17,Carousel,Styling Tips,11673,470,33,79,119,14,0.0537
+P0315,YouTube Shorts,2025-03-10,Short Video,Styling Tips,3796,169,16,17,37,10,0.062
+P0316,YouTube Shorts,2025-03-07,Short Video,Trend Based,18233,557,34,71,89,51,0.0429
+P0317,Instagram,2025-04-18,Reel,Styling Tips,2704,107,8,13,16,10,0.0503
+P0318,Instagram,2025-05-09,Carousel,Behind the Scenes,11061,443,27,34,78,14,0.0536
+P0319,Instagram,2025-02-03,Static Post,Styling Tips,11606,315,16,48,43,49,0.0381
+P0320,Instagram,2025-01-01,Carousel,Behind the Scenes,1731,58,2,11,13,3,0.0453
+P0321,YouTube Shorts,2025-03-16,Short Video,Styling Tips,10503,328,17,46,44,13,0.0373
+P0322,Instagram,2025-06-05,Reel,Product Launch,6636,291,26,58,39,28,0.0611
+P0323,TikTok,2025-03-12,Short Video,Product Launch,12498,436,36,37,114,40,0.0498
+P0324,TikTok,2025-04-11,Short Video,Behind the Scenes,19940,341,23,28,72,23,0.0241
+P0325,YouTube Shorts,2025-05-13,Short Video,Behind the Scenes,4755,105,5,15,16,16,0.0309
+P0326,YouTube Shorts,2025-05-23,Short Video,Behind the Scenes,2779,54,4,5,15,6,0.0281
+P0327,Instagram,2025-05-29,Static Post,Behind the Scenes,5575,217,20,23,30,3,0.0516
+P0328,TikTok,2025-06-14,Short Video,Trend Based,6305,349,30,57,50,13,0.0706
+P0329,Instagram,2025-05-04,Static Post,Behind the Scenes,3928,102,5,15,26,8,0.0342
+P0330,TikTok,2025-02-10,Short Video,Promotional Offer,10599,79,7,12,12,24,0.0107
+P0331,YouTube Shorts,2025-05-27,Short Video,Styling Tips,1169,53,3,6,12,3,0.064
+P0332,Instagram,2025-04-11,Reel,Styling Tips,5114,133,5,13,32,7,0.0324
+P0333,Instagram,2025-06-14,Static Post,Styling Tips,18197,959,66,138,155,61,0.0648
+P0334,YouTube Shorts,2025-04-29,Short Video,Promotional Offer,2892,60,4,5,11,3,0.0268
+P0335,YouTube Shorts,2025-02-28,Short Video,Trend Based,7893,441,37,76,113,25,0.0745
+P0336,TikTok,2025-03-23,Short Video,User Generated Content,17364,352,18,26,88,54,0.0273
+P0337,TikTok,2025-05-20,Short Video,Trend Based,24475,739,59,107,108,138,0.0368
+P0338,Instagram,2025-01-14,Reel,Behind the Scenes,9469,189,10,19,28,5,0.0269
+P0339,YouTube Shorts,2025-01-08,Short Video,User Generated Content,1042,75,2,12,11,1,0.0916
+P0340,TikTok,2025-04-12,Short Video,Promotional Offer,43084,1414,109,136,179,66,0.0456
+P0341,Instagram,2025-02-10,Reel,Product Launch,8555,239,9,20,49,8,0.0337
+P0342,TikTok,2025-05-11,Short Video,Promotional Offer,33766,695,38,75,179,65,0.0281
+P0343,TikTok,2025-03-15,Short Video,Styling Tips,12933,405,24,67,56,55,0.0398
+P0344,Instagram,2025-01-22,Reel,Styling Tips,9206,211,9,26,23,6,0.028
+P0345,TikTok,2025-03-06,Short Video,User Generated Content,6598,456,20,79,106,34,0.0814
+P0346,TikTok,2025-04-02,Short Video,Product Launch,12983,864,68,109,171,10,0.084
+P0347,Instagram,2025-04-11,Reel,User Generated Content,4574,147,14,12,19,28,0.0438
+P0348,TikTok,2025-01-25,Short Video,Promotional Offer,4055,80,8,8,16,9,0.0259
+P0349,Instagram,2025-04-20,Static Post,Promotional Offer,2544,96,5,11,9,1,0.045
+P0350,Instagram,2025-05-20,Reel,Styling Tips,16426,737,65,83,163,46,0.0564
+P0351,Instagram,2025-01-13,Reel,Promotional Offer,6186,105,6,8,20,7,0.0204
+P0352,TikTok,2025-06-12,Short Video,Promotional Offer,15807,568,30,33,76,15,0.0427
+P0353,TikTok,2025-04-17,Short Video,User Generated Content,44022,995,48,78,238,261,0.0301
+P0354,TikTok,2025-06-10,Short Video,Promotional Offer,2770,94,3,9,16,2,0.0411
+P0355,Instagram,2025-06-22,Static Post,Promotional Offer,8262,408,25,57,66,8,0.0632
+P0356,Instagram,2025-05-30,Reel,User Generated Content,10134,488,51,66,81,35,0.0679
+P0357,Instagram,2025-05-03,Carousel,Styling Tips,3690,92,7,15,20,12,0.0347
+P0358,YouTube Shorts,2025-06-29,Short Video,Trend Based,9300,450,25,54,96,20,0.0594
+P0359,Instagram,2025-01-20,Carousel,Behind the Scenes,27426,490,22,41,103,59,0.0251
+P0360,Instagram,2025-06-17,Carousel,User Generated Content,1741,88,7,7,22,6,0.0643
+P0361,Instagram,2025-06-13,Story,User Generated Content,5869,402,34,73,101,32,0.0879
+P0362,Instagram,2025-03-13,Story,Styling Tips,5833,330,16,24,59,24,0.0675
+P0363,Instagram,2025-01-14,Reel,User Generated Content,4454,224,19,25,52,3,0.06
+P0364,TikTok,2025-03-21,Short Video,Promotional Offer,6454,174,12,30,20,11,0.0321
+P0365,TikTok,2025-01-21,Short Video,Promotional Offer,7198,223,8,31,45,7,0.0388
+P0366,Instagram,2025-04-14,Reel,Promotional Offer,11330,187,15,37,33,13,0.0232
+P0367,Instagram,2025-03-08,Reel,User Generated Content,15233,1369,97,124,209,79,0.1167
+P0368,YouTube Shorts,2025-05-22,Short Video,Styling Tips,6375,209,19,17,42,4,0.0396
+P0369,Instagram,2025-06-18,Carousel,Trend Based,9490,927,34,163,99,54,0.1159
+P0370,Instagram,2025-04-26,Reel,Behind the Scenes,3789,100,5,8,16,2,0.0318
+P0371,YouTube Shorts,2025-02-05,Short Video,Styling Tips,5612,51,5,6,9,3,0.0126
+P0372,Instagram,2025-03-16,Story,Styling Tips,7248,213,18,33,29,27,0.0357
+P0373,TikTok,2025-01-15,Short Video,Behind the Scenes,3630,81,5,6,14,7,0.0309
+P0374,TikTok,2025-01-27,Short Video,Behind the Scenes,6025,160,11,28,29,20,0.0339
+P0375,Instagram,2025-05-29,Reel,Trend Based,11842,775,61,98,138,76,0.0873
+P0376,YouTube Shorts,2025-01-23,Short Video,Styling Tips,1057,38,2,6,4,2,0.0432
+P0377,TikTok,2025-05-02,Short Video,Behind the Scenes,24505,467,34,30,116,14,0.0239
+P0378,YouTube Shorts,2025-05-12,Short Video,Trend Based,3750,61,3,11,13,15,0.023
+P0379,TikTok,2025-01-14,Short Video,Styling Tips,6235,103,5,16,21,8,0.0196
+P0380,Instagram,2025-02-02,Carousel,Trend Based,6856,477,36,83,110,41,0.0912
+P0381,Instagram,2025-04-28,Static Post,Behind the Scenes,20586,446,18,64,98,73,0.0276
+P0382,Instagram,2025-06-08,Static Post,Trend Based,6954,181,11,20,35,29,0.0338
+P0383,Instagram,2025-04-13,Carousel,User Generated Content,17317,528,48,74,78,81,0.0405
+P0384,TikTok,2025-05-13,Short Video,Promotional Offer,8103,355,24,52,68,9,0.0593
+P0385,Instagram,2025-02-13,Carousel,Product Launch,7506,214,17,16,24,31,0.0397
+P0386,Instagram,2025-06-11,Reel,User Generated Content,12673,858,76,101,184,74,0.0858
+P0387,TikTok,2025-01-30,Short Video,User Generated Content,29134,1034,80,147,119,158,0.0464
+P0388,Instagram,2025-04-04,Static Post,Behind the Scenes,3312,58,2,8,11,9,0.0214
+P0389,YouTube Shorts,2025-04-11,Short Video,User Generated Content,15831,1189,101,74,240,31,0.0902
+P0390,Instagram,2025-01-11,Carousel,Trend Based,8222,199,7,24,38,52,0.029
+P0391,TikTok,2025-06-18,Short Video,Promotional Offer,19971,346,33,38,41,45,0.0216
+P0392,TikTok,2025-02-07,Short Video,Styling Tips,1610,53,4,4,8,2,0.042
+P0393,Instagram,2025-03-08,Static Post,Product Launch,12724,537,57,64,89,12,0.0581
+P0394,TikTok,2025-02-14,Short Video,User Generated Content,39597,1355,132,246,312,64,0.0459
+P0395,TikTok,2025-05-03,Short Video,Trend Based,21368,174,8,18,39,127,0.0105
+P0396,Instagram,2025-05-03,Story,Promotional Offer,3870,121,11,16,13,8,0.0383
+P0397,TikTok,2025-01-31,Short Video,User Generated Content,21155,987,58,79,215,81,0.0564
+P0398,Instagram,2025-02-25,Static Post,Product Launch,8539,324,27,59,40,18,0.0493
+P0399,Instagram,2025-06-09,Carousel,Trend Based,18263,952,52,89,231,47,0.0656
+P0400,TikTok,2025-01-26,Short Video,Promotional Offer,11522,305,19,34,57,18,0.0351
+P0401,YouTube Shorts,2025-03-16,Short Video,Promotional Offer,4123,71,6,9,12,6,0.0227
+P0402,YouTube Shorts,2025-05-28,Short Video,Promotional Offer,214,2,0,0,0,0,0.0156
+P0403,YouTube Shorts,2025-02-16,Short Video,Promotional Offer,259,8,0,0,1,0,0.0434
+P0404,Instagram,2025-01-22,Static Post,Promotional Offer,657,17,0,2,2,0,0.0339
+P0405,TikTok,2025-02-12,Short Video,Styling Tips,15618,623,51,48,112,53,0.0538
+P0406,TikTok,2025-04-02,Short Video,Promotional Offer,4923,114,7,20,23,5,0.0275
+P0407,TikTok,2025-03-13,Short Video,Trend Based,56870,3311,184,581,378,54,0.0703
+P0408,YouTube Shorts,2025-01-01,Short Video,User Generated Content,1380,40,2,6,6,4,0.0412
+P0409,Instagram,2025-05-26,Story,Styling Tips,3809,175,15,34,27,11,0.0615
+P0410,YouTube Shorts,2025-05-10,Short Video,Trend Based,9409,468,21,54,79,19,0.0614
+P0411,Instagram,2025-01-03,Static Post,User Generated Content,3161,150,14,28,33,10,0.0613
+P0412,TikTok,2025-01-31,Short Video,Behind the Scenes,13502,583,44,47,104,9,0.0533
+P0413,Instagram,2025-02-07,Carousel,Behind the Scenes,6076,194,17,27,48,12,0.0445
+P0414,TikTok,2025-03-28,Short Video,Trend Based,29566,2276,167,369,531,147,0.1003
+P0415,YouTube Shorts,2025-03-02,Short Video,Product Launch,17505,291,24,53,50,23,0.0231
+P0416,Instagram,2025-04-12,Reel,Behind the Scenes,14464,517,41,44,86,28,0.0439
+P0417,Instagram,2025-03-03,Carousel,Promotional Offer,23814,482,25,54,54,19,0.0256
+P0418,Instagram,2025-06-02,Reel,Promotional Offer,4732,137,6,19,27,11,0.0386
+P0419,Instagram,2025-04-10,Carousel,Promotional Offer,3256,66,3,6,13,4,0.0244
+P0420,YouTube Shorts,2025-04-15,Short Video,Styling Tips,3867,116,6,20,13,9,0.0389
